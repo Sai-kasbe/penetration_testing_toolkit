@@ -2,9 +2,9 @@
 
 *COMPANY*: CODETECH IT SOLUTIONS
 
-*NAME*: MOHAMMED ZUBAIR UDDIN ZAMEER
+*NAME*:KASBE SAI
 
-*INTERN ID*: CITSOD850
+*INTERN ID*: CITSOD836
 
 *DOMAIN*: CYBER SECURITY AND ETHICAL HACKING
 
@@ -22,8 +22,10 @@ While the toolkit is powerful in its simplicity, it is designed for **educationa
 
 ##OUTPUT
 
-![Screenshot 2025-07-06 152012](https://github.com/user-attachments/assets/76aeb3c4-e032-4803-b91a-21b50943363a)
+<img width="740" height="136" alt="image" src="https://github.com/user-attachments/assets/0aac3a86-c3ff-4992-8726-a0a7cf626c40" />
 
-![Screenshot 2025-07-06 152518](https://github.com/user-attachments/assets/ef590d75-6572-431f-aad7-3f4c4eae71c7)
+<img width="740" height="200" alt="image" src="https://github.com/user-attachments/assets/58273551-03c3-4c71-a1fe-fe9861774929" />
+
+
 
 
